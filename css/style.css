@@ -104,3 +104,9 @@ input[type="text"]:focus {
   color: #ff3c5f;
   margin-top: 10px;
 }
+#not-match{
+  display: none;
+}
+#match{
+  display: none;
+}
